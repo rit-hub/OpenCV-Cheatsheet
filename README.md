@@ -30,8 +30,6 @@ Anaconda
 
 ## Import OpenCV
 
-import
-
 ```bash
   import cv2
   import cv2 as cv
