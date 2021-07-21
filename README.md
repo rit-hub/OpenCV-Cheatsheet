@@ -1,15 +1,15 @@
 
 # What is Open CV?
 
-OpenCV (Open Source Computer Vision) Library is an open Source Computer Vision and machine learning software library.
+- OpenCV (Open Source Computer Vision) Library is an open Source Computer Vision and machine learning software library.
 
-The library has more than 2500 optimized algorithms.
+- The library has more than 2500 optimized algorithms.
 
-Cross-Platform: C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
+- Cross-Platform: C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
 
-OpenCV is written natively in C++
+- OpenCV is written natively in C++
 
-Initial release: June 2000
+- Initial release: June 2000
 
 # Dependency of OpenCV
 
