@@ -42,13 +42,12 @@ Anaconda
 - ⚡ [Display Image imshow()](https://ritam.xyz)
 - ⚡ [Save Image](https://ritam.xyz)
 - ⚡ [Display Image](https://ritam.xyz)
-<!-- 
-- ⚡ [Make video from images and NumPy Array](https://ritam.xyz) -->
+- ⚡ [Make video from images and NumPy Array](https://ritam.xyz)
 - ⚡ [Put Text over a picture](https://ritam.xyz)
-- ⚡ [Draw a rectangle and text in OpenCV](https://ritam.xyz)<!-- 
+- ⚡ [Draw a rectangle and text in OpenCV](https://ritam.xyz)
 - ⚡ [Draw circle, Line, Print Text on an image](https://ritam.xyz)
 - ⚡ [Draw Ellipse, Print Text on an image](https://ritam.xyz)
 - ⚡ [Draw Polygons on an image](https://ritam.xyz)
 - ⚡ [Change image color](https://ritam.xyz)
 - ⚡ [Split and Marge Image](https://ritam.xyz)
-- ⚡ [Draw Polygons on an image](https://ritam.xyz) -->
+- ⚡ [Draw Polygons on an image](https://ritam.xyz)
