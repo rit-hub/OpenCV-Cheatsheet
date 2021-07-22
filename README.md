@@ -37,9 +37,9 @@ Anaconda
 
 ## OpenCV Functions
 
-- ⚡ [Open & Read Images](https://ritam.xyz)
+- ⚡ [Open & Read Images](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/Open%20%26%20Read/README.md)
 - ⚡ [Play video & accessing camera](https://ritam.xyz)
-- ⚡ [Display Image](https://ritam.xyz)
+- ⚡ [Display Image imshow()](https://ritam.xyz)
 - ⚡ [Save Image](https://ritam.xyz)
 - ⚡ [Display Image](https://ritam.xyz)
 - ⚡ [Make video from images and NumPy Array](https://ritam.xyz)
