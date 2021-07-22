@@ -44,13 +44,13 @@ Anaconda
 - ⚡ [Open & Read Images](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/Open%20%26%20Read/README.md)
 - ⚡ [Play video & accessing camera](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/video%20%26%20camera/README.md)
 - ⚡ [Display Image imshow()](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/Display%20Image/README.md)
-- ⚡ [Save Image](https://ritam.xyz)
-- ⚡ [Make video from images and NumPy Array](https://ritam.xyz)
+- ⚡ [Save Image]
+- ⚡ [Make video from images and NumPy Array]
 - ⚡ [Put Text over a picture](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/Print%20Text/README.md)
 - ⚡ [Draw a rectangle and text in OpenCV](https://github.com/rit-hub/OpenCV-Cheatsheet/blob/main/OpenCV/Rectangle/README.md)
-- ⚡ [Draw circle, Line, Print Text on an image](https://ritam.xyz)
-- ⚡ [Draw Ellipse, Print Text on an image](https://ritam.xyz)
-- ⚡ [Draw Polygons on an image](https://ritam.xyz)
-- ⚡ [Change image color](https://ritam.xyz)
-- ⚡ [Split and Marge Image](https://ritam.xyz)
-- ⚡ [Draw Polygons on an image](https://ritam.xyz)
+- ⚡ [Draw circle, Line, Print Text on an image]
+- ⚡ [Draw Ellipse, Print Text on an image]
+- ⚡ [Draw Polygons on an image]
+- ⚡ [Change image color]
+- ⚡ [Split and Marge Image]
+- ⚡ [Draw Polygons on an image]
