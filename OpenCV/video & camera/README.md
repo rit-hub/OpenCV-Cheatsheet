@@ -1,55 +1,52 @@
 
-# What is Open CV?
+## Play Video & Acess Camera using OpenCV
 
-OpenCV (Open Source Computer Vision) Library is an open Source Computer Vision and machine learning software library.
-
-The library has more than 2500 optimized algorithms.
-
-Cross-Platform: C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
-
-OpenCV is written natively in C++
-
-Initial release: June 2000
-
-# Dependency of OpenCV
-
-Python, NumPy, SciPy, pandas, Matplotlib
-
-## Installation
-
-Install OpenCV 
+Play single video
 
 ```bash
-  pip install opencv-python
-```
-Anaconda 
-
-```bash
-  conda install -c conda-forge opencv
-```
-
-## Import OpenCV
-
-import
-
-```bash
+  import numpy as np
   import cv2
-  import cv2 as cv
+
+  video_path1 = r'D:\**********.mp4'
+  video_path2 = r'D:\*********.mp4'
+
+  cap = cv2.VideoCapture(video_path1)
+  while cap.isOpened():
+    ret, frame = cap.read()
+    if ret:
+      image = cv2.resize(frame, (600, 400))
+      cv2.imshow(image)
+      if cv2.waitKey(25) & 0xff == ord('q'):
+        break
+    else:
+      break
+  
+  cap.release()
+  cv2.destroyAllWindows()
+```
+Access Camera
+
+```bash
+  import numpy as np
+  import cv2
+
+  cap = cv2.VideoCapture(0)   #Primary camera
+  #cap = cv2.VideoCapture(1)  #secoendary camera
+  #cap = cv2.VideoCapture(-1) #secoendary camera
+  #cap = cv2.VideoCapture(***camera name**)
+
+  while cap.isOpened():
+    ret, frame = cap.read()
+    if ret:
+      image = cv2.resize(frame, (600, 400))
+      cv2.imshow(image)
+      if cv2.waitKey(25) & 0xff == ord('q'):
+        break
+    else:
+      break
+  
+  cap.release()
+  cv2.destroyAllWindows()
 ```
 
-## OpenCV Functions
 
-- ⚡ [Open & Read Images](https://ritam.xyz)
-- ⚡ [Play video & accessing camera](https://ritam.xyz)
-- ⚡ [Display Image](https://ritam.xyz)
-- ⚡ [Save Image](https://ritam.xyz)
-- ⚡ [Display Image](https://ritam.xyz)
-- ⚡ [Make video from images and NumPy Array](https://ritam.xyz)
-- ⚡ [Put Text over a picture](https://ritam.xyz)
-- ⚡ [Draw a rectangle and text in OpenCV](https://ritam.xyz)
-- ⚡ [Draw circle, Line, Print Text on an image](https://ritam.xyz)
-- ⚡ [Draw Ellipse, Print Text on an image](https://ritam.xyz)
-- ⚡ [Draw Polygons on an image](https://ritam.xyz)
-- ⚡ [Change image color](https://ritam.xyz)
-- ⚡ [Split and Marge Image](https://ritam.xyz)
-- ⚡ [Draw Polygons on an image](https://ritam.xyz)
