@@ -13,7 +13,11 @@
 
 # Dependency of OpenCV
 
-Python, NumPy, SciPy, pandas, Matplotlib
+- Python
+-  NumPy
+-  SciPy
+-  pandas
+-  Matplotlib
 
 ## Installation
 
